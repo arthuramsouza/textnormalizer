@@ -1,4 +1,12 @@
 # Text Normalizer
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![License](https://img.shields.io/badge/license-GPL%203.0-green.svg)](https://opensource.org/licenses/GPL-3.0)
+
+## Overview
+
+<p align="center">
+    <img src="https://i.imgur.com/kbD9Q7v.png" alt="Project overview" />
+</p>
+
+*More to come*
