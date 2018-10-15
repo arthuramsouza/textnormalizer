@@ -6,7 +6,7 @@
 ## Overview
 
 <p align="center">
-    <img src="https://i.imgur.com/kbD9Q7v.png" alt="Project overview" />
+    <img src="https://i.imgur.com/j8sqVrE.png" alt="Project overview" />
 </p>
 
 *More to come*
