@@ -1,6 +1,6 @@
 # Text Normalizer
 
-[![License](https://img.shields.io/badge/license-GPL%203.0-green.svg)](https://opensource.org/licenses/GPL-3.0) 
+[![License](https://img.shields.io/badge/license-GPL%203.0-green.svg)](https://github.com/arthuramsouza/textnormalizer/blob/master/LICENSE) 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg) 
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange.svg)](https://www.tensorflow.org/)
 
