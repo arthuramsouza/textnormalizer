@@ -7,7 +7,7 @@
 ## Overview
 
 <p align="center">
-    <img src="https://i.imgur.com/j8sqVrE.png" alt="Project overview" />
+    <img src="https://i.imgur.com/YQIYMl6.png" alt="Project overview" />
 </p>
 
 ## Dataset
