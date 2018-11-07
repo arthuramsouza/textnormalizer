@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-from snnf.network import *
-from snnf.functions import *
+from studies.snnf.network import *
+from studies.snnf.functions import *
 
 g = Graph()
 g.set_as_default()
