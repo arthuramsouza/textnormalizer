@@ -23,7 +23,7 @@ input_func = tf.estimator.inputs.pandas_input_fn(x=X_train, y=y_train, batch_siz
 
 # Deep Neural Network classifier
 
-classifier = tf.estimator.DNNClassifier(hidden_units=[10, 20, 10], n_classes=3, feature_columns=feat_cols)
+classifier = tf.estimator.DNNClassifier(hidden_units=[20, 20], n_classes=3, feature_columns=feat_cols)
 
 # Training the model
 
